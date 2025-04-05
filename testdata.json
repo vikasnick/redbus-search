@@ -1,0 +1,15 @@
+{
+    "locators": {
+      "source": "#src",
+      "destination": "#dest",
+      "dateOpener": "#onwardCal",
+      "searchButton": "#search_button",
+      "dateTemplate": "//span[text()='{{DATE}}']"
+    },
+    "values": {
+      "source": "Mumbai",
+      "destination": "Delhi"
+      
+    }
+  }
+  
